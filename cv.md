@@ -1,5 +1,10 @@
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
+# __Anastasiya Kharitonova__
+
+### Contact Info 
+* _Telegram_ anastasiya2310
+* _Phone number_ +375291682774
+* _Email_ kovalskaya.anastasiya@gmail.com
+
 3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
 Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
 learning new things from everywhere etc.).
