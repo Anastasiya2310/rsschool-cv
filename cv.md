@@ -1,9 +1,9 @@
 # __Anastasiya Kharitonova__
 
 ### Contact Info 
-* _Telegram_ anastasiya2310
-* _Phone number_ +375291682774
-* _Email_ kovalskaya.anastasiya@gmail.com
+* _**Telegram**_ anastasiya2310
+* _**Phone number**_ +375291682774
+* _**Email**_ kovalskaya.anastasiya@gmail.com
 
 ### Summary
 The main goal of my participation in rs-school - to improve my frontend skills; to train abstract thinking; to communicate with different people, who like what they do =). Experience in frontend - 6 years. I'm in maternity vac at this moment. 
