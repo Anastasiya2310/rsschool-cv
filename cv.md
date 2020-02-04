@@ -5,13 +5,21 @@
 * _Phone number_ +375291682774
 * _Email_ kovalskaya.anastasiya@gmail.com
 
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+### Summary
+The main goal of my participation in rs-school - to improve my frontend skills; to train abstract thinking; to communicate with different people, who like what they do =). Experience in frontend - 6 years. I'm in maternity vac at this moment. 
+
+### Skills
+Mostly I'm working with html/css + drupal(little experience in react); had a direct communication with a customer(in english); using scss, less; bootstrap; jquery; Pivotaltracker; Jira; Sketch (a little bit); AdobePS; Git (github, Bitbucket); planningPoker.
+
+### Code examples (LATEST)
+[Sartle](https://www.sartle.com).
+Another big project can't show (NDA).
+
+### Experience 
+Was described in previous item.
+
+### Education (including courses, seminars, lectures, online learning)
+I'm graduated in editor (BSTU); udemy course "React + Redux" (in progress). CSS-Minsk-JS conference.
+
+### English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+Had daily standUps with customer (latest project ~ 6-7 month) and also daily standUps in a big project (we had multinational team =) ~ 1 year). Had corporative english lessons (at work) (Intermediate level).
