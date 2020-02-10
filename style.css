@@ -1,0 +1,29 @@
+
+.container {
+	max-width: 1024px;
+	margin: 30px auto;
+	box-shadow: 8px 2px 16px rgba(0, 0, 0, 0.3);
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.header {
+	padding: 40px;
+	background-color: #e3cfce;
+}
+
+h1 {
+	font-weight: 300;
+	display: inline-block;
+	margin-left: 50px;
+}
+
+.cv-photo {
+	object-fit: cover;
+	border-radius: 50%;
+	border: 6px solid #fff;
+	max-width: 280px;
+	vertical-align: middle;
+}
+
+
