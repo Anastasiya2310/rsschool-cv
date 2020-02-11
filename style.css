@@ -3,19 +3,42 @@
 	max-width: 1024px;
 	margin: 30px auto;
 	box-shadow: 8px 2px 16px rgba(0, 0, 0, 0.3);
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
+	color: #877977;
 }
 
 .header {
-	padding: 40px;
+	font-family: 'Open Sans', sans-serif;
+	padding: 0 80px 40px;
 	background-color: #e3cfce;
+	border-top: 100px solid #c8b3b2;
 }
 
 h1 {
 	font-weight: 300;
+	color: #1e1313;
+	margin-bottom: 10px;
+}
+
+h2 {
+	margin: 0;
+	padding: 5px 10px;
+	max-width: 200px;
+	background-color: #e1e1e3;
+	color: #8b8a8f;
+	font-size: 1.1rem;
+}
+
+.summary h2 {
 	display: inline-block;
+}
+
+.intro-info {
+	display: inline-block;
+	vertical-align: middle;
 	margin-left: 50px;
+	max-width: calc(100% - 350px);
 }
 
 .cv-photo {
@@ -25,5 +48,22 @@ h1 {
 	max-width: 280px;
 	vertical-align: middle;
 }
+
+.top-overflow {
+	margin-top: -30px;
+}
+
+.contact-info {
+	padding: 20px 80px;
+	background-color: #dcc8c8;
+}
+
+.info {
+	display: inline-block;
+	min-width: calc(30% - 20px);
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
 
 
