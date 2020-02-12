@@ -2,10 +2,12 @@
 .container {
 	max-width: 1024px;
 	margin: 30px auto;
-	box-shadow: 8px 2px 16px rgba(0, 0, 0, 0.3);
-	font-family: 'Montserrat', sans-serif;
+
 	font-size: 14px;
+	font-family: "Montserrat", sans-serif;
 	color: #877977;
+
+	box-shadow: 8px 2px 16px rgba(0, 0, 0, 0.3);
 }
 
 .page-margin {
@@ -13,7 +15,8 @@
 }
 
 .header {
-	font-family: 'Open Sans', sans-serif;
+	font-family: "Open Sans", sans-serif;
+
 	background-color: #e3cfce;
 	border-top: 100px solid #c8b3b2;
 }
@@ -27,15 +30,16 @@
 }
 
 h1 {
+	margin-bottom: 10px;
+
 	font-weight: 300;
 	color: #1e1313;
-	margin-bottom: 10px;
 }
 
 h2 {
 	margin: 0;
-	color: #aa9697;
 	font-size: 1.1rem;
+	color: #aa9697;
 }
 
 h2 span {
@@ -49,17 +53,19 @@ h2 span {
 
 .intro-info {
 	display: inline-block;
+	max-width: calc(100% - 350px);
 	vertical-align: middle;
 	margin-left: 50px;
-	max-width: calc(100% - 350px);
 }
 
 .cv-photo {
-	object-fit: cover;
-	border-radius: 50%;
-	border: 6px solid #fff;
 	max-width: 280px;
 	vertical-align: middle;
+
+	border-radius: 50%;
+	border: 6px solid #fff;
+
+	object-fit: cover;
 }
 
 .top-overflow {
@@ -78,14 +84,15 @@ h2 span {
 }
 
 .main {
+	display: flex;
 	padding-top: 40px;
-	background-color: rgb(222, 222, 224, 0.2);
-  display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
   align-content: flex-start;
   align-items: flex-start;
+
+  background-color: rgb(222, 222, 224, 0.2);
 }
 
 .flex-item {
@@ -96,9 +103,9 @@ h2 span {
 }
 
 .main h2 {
+	margin-bottom: 15px;
 	letter-spacing: 2px;
 	border-bottom: 2px solid #e1e1e3;
-	margin-bottom: 15px;
 }
 
 .main h2 span {
@@ -139,21 +146,24 @@ section {
 }
 
 .footer {
-	background-color: #c8b3b2;
-	color: #807271;
 	position: relative;
+	color: #807271;
+	background-color: #c8b3b2;
 	overflow: hidden;
 }
 
 .footer:after {
 	content: '';
-	display: block;
-	width: 200px;
-	height: 200px;
-	background-color: #dcc8c8;
 	position: absolute;
 	right: -140px;
 	bottom: -80px;
-	transform: rotate(45deg);
+
+	display: block;
+	width: 200px;
+	height: 200px;
+
+	background-color: #dcc8c8;
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+
+	transform: rotate(45deg);
 }
