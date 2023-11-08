@@ -7,7 +7,7 @@
   * kovalskaya.anastasiya@gmail.com
   * [Github](https://github.com/Anastasiya2310)
   * [linkedin](https://www.linkedin.com/in/anastasiya-kharitonova/)
-  * [Codewars](https://www.codewars.com/users/Anastasiya.2310) \
+  * [Codewars](https://www.codewars.com/users/Anastasiya.2310)
   * [Leetcode](https://leetcode.com/user8779BK/)
 
 #### Skills ####
