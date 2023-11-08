@@ -2,27 +2,27 @@
 
 ## Frontend Developer (WarecorpPol)
 
-####Contact info####
-  *+48 572-912-741
-  *kovalskaya.anastasiya@gmail.com
-  *[Github](https://github.com/Anastasiya2310)
-  *[linkedin](https://www.linkedin.com/in/anastasiya-kharitonova/)
-  *[Codewars](https://www.codewars.com/users/Anastasiya.2310) \
-  *[Leetcode](https://leetcode.com/user8779BK/)
+#### Contact info ####
+  * +48 572-912-741
+  * kovalskaya.anastasiya@gmail.com
+  * [Github](https://github.com/Anastasiya2310)
+  * [linkedin](https://www.linkedin.com/in/anastasiya-kharitonova/)
+  * [Codewars](https://www.codewars.com/users/Anastasiya.2310) \
+  * [Leetcode](https://leetcode.com/user8779BK/)
 
-####Skills####
+#### Skills ####
   *HTML* *CSS* *Javascript* *React* *Git* *Drupal* *SCSS* *Webpack* *Docker*
 
-####Language####
-  *Russian (native)
-  *English (B2-C1)
-  *Polish (A2)
+#### Language ####
+  * Russian (native)
+  * English (B2-C1)
+  * Polish (A2)
 
-####Education####
+#### Education ####
   **The Belarusian State Technological University** _2009-2014_
   *Bachelor (Editing and Publishing technology)*
 
-####Expreience####
+#### Expreience ####
   **EKA-Soft** _Frontend developer (2014-2016. Minsk)_
   Created and implemented design mockups and implement them into CMS Drupal.
   Communication with clients regarding the new features on a website.
@@ -36,10 +36,10 @@
   **WarecorpPol** _Frontend developer (2021-present. Warsaw)_
   Maintaining existing projects (html/css/js/ruby); chatGPT implementation (via API); developing solution for client in Drupal 10.
 
-####Summary####
-  Attention to detail
-  Communication
-  Problem-Solving
-  Hight degree of responsibility
-  Constant learner, striving to gain new skills
+#### Summary ####
+  * Attention to detail
+  * Communication
+  * Problem-Solving
+  * Hight degree of responsibility
+  * Constant learner, striving to gain new skills
 
