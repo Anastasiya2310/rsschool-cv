@@ -23,18 +23,18 @@
   *Bachelor (Editing and Publishing technology)*
 
 #### Expreience ####
-  **EKA-Soft** _Frontend developer (2014-2016. Minsk)_
-  Created and implemented design mockups and implement them into CMS Drupal.
-  Communication with clients regarding the new features on a website.
-  Effectively multi-tasked and worked well with internal and external teams.
-  Helped to achieve a consistent look and visual theme across the website by promoting images and layout.
+  **EKA-Soft** _Frontend developer (2014-2016. Minsk)_ \
+  Created and implemented design mockups and implement them into CMS Drupal. \
+  Communication with clients regarding the new features on a website.\
+  Effectively multi-tasked and worked well with internal and external teams.\
+  Helped to achieve a consistent look and visual theme across the website by promoting images and layout.\
 
-  **Warecorp** _Frontend developer (2016-2021. Minsk)_
-  Developing project from scratch; collaborating with the international team; choosing the appropriate technology for development; writing the frontend part of the project. 
-  Creating new email templates, testing templates in different email clients (Gmail, Outlook, etc.)
+  **Warecorp** _Frontend developer (2016-2021. Minsk)_\
+  Developing project from scratch; collaborating with the international team; choosing the appropriate technology for development; writing the frontend part of the project. \
+  Creating new email templates, testing templates in different email clients (Gmail, Outlook, etc.)\
 
-  **WarecorpPol** _Frontend developer (2021-present. Warsaw)_
-  Maintaining existing projects (html/css/js/ruby); chatGPT implementation (via API); developing solution for client in Drupal 10.
+  **WarecorpPol** _Frontend developer (2021-present. Warsaw)_\
+  Maintaining existing projects (html/css/js/ruby); chatGPT implementation (via API); developing solution for client in Drupal 10.\
 
 #### Summary ####
   * Attention to detail
